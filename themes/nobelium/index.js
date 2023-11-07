@@ -214,6 +214,7 @@ const LayoutSlug = props => {
                     <ShareBar post={post} />
                     <Comment frontMatter={post} />
                     <ArticleFooter />
+                    <AdSlot type="auto" />
                 </>
             </div>}
 
